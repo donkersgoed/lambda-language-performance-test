@@ -15,7 +15,8 @@ class LambdaLanguagePerformanceTestStack(core.Stack):
     def __init__(self, scope: core.Construct, construct_id: str, **kwargs) -> None:
         super().__init__(scope, construct_id, **kwargs)
 
-        memory_size = 128
+        memory_size = 256
+        test_data_file = 'test_data_10000.json'
 
         # Lambda Layer with the test JSON
         json_layer = lambda_.LayerVersion(
@@ -38,19 +39,25 @@ class LambdaLanguagePerformanceTestStack(core.Stack):
             layers=[json_layer],
             memory_size=memory_size,
             timeout=core.Duration.seconds(60),
+            environment={
+                'TEST_DATA_FILE': test_data_file
+            },
         )
 
-        # lambda_.Function(
-        #     scope=self,
-        #     id='perf-test-rust',
-        #     function_name='perf-test-rust',
-        #     runtime=lambda_.Runtime.PROVIDED_AL2,
-        #     code=lambda_.Code.asset('lambda_code/rust/rust.zip'),
-        #     handler='doesnt.matter',
-        #     layers=[json_layer],
-        #     memory_size=memory_size,
-        #     timeout=core.Duration.seconds(60),
-        # )
+        lambda_.Function(
+            scope=self,
+            id='perf-test-rust',
+            function_name='perf-test-rust',
+            runtime=lambda_.Runtime.PROVIDED_AL2,
+            code=lambda_.Code.asset('lambda_code/rust/rust.zip'),
+            handler='doesnt.matter',
+            layers=[json_layer],
+            memory_size=memory_size,
+            timeout=core.Duration.seconds(60),
+            environment={
+                'TEST_DATA_FILE': test_data_file
+            },
+        )
 
         # lambda_.Function(
         #     scope=self,
@@ -62,4 +69,7 @@ class LambdaLanguagePerformanceTestStack(core.Stack):
         #     layers=[json_layer],
         #     memory_size=memory_size,
         #     timeout=core.Duration.seconds(60),
+        #     environment={
+        #         'TEST_DATA_FILE': test_data_file
+        #     },
         # )

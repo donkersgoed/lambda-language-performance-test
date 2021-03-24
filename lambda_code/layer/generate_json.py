@@ -1,12 +1,15 @@
 import json
 import random
-import string    
+import string
 import uuid
 
 NO_OF_OBJECTS = 100 * 1000
 
 with open('make_models.json', 'r') as model_fh:
     MAKE_MODEL_DICT = json.load(model_fh)
+
+with open('countries.json', 'r') as country_fh:
+    COUNTRY_LIST = json.load(country_fh)
 
 def generate_json():
     json_dict = {}
@@ -17,9 +20,13 @@ def generate_json():
             'make': make,
             'model': model,
             'license_plate': generate_license_plate(),
+            'origin': {
+                'country': random.choice(COUNTRY_LIST),
+                'year': random.randrange(1980, 2020)
+            }
         }
 
-    with open('test_data.json', 'w+') as file_handler:
+    with open(f'test_data_{NO_OF_OBJECTS}.json', 'w+') as file_handler:
         json.dump(json_dict, file_handler, indent=4)
 
 def get_random_make_model():
