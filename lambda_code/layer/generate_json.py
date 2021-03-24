@@ -3,7 +3,7 @@ import random
 import string
 import uuid
 
-NO_OF_OBJECTS = 100 * 1000
+NO_OF_OBJECTS = 10 * 1000
 
 with open('make_models.json', 'r') as model_fh:
     MAKE_MODEL_DICT = json.load(model_fh)
