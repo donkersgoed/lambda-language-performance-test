@@ -47,7 +47,9 @@ func HandleLambdaEvent() error {
 	byteValue, _ := ioutil.ReadAll(jsonFile)
 	var sourceMap map[string]Vehicle
 	json.Unmarshal([]byte(byteValue), &sourceMap)
+	fmt.Printf("JSON parsing took %d ms\n", time.Now().Sub(t1).Milliseconds())
 
+	t2 := time.Now()
 	vector := []VehicleWithHash{}
 	// For every item, check its license plate. If it has an 'A' in the first
 	// section and a 0 in the second section, add it to the list. For example
@@ -72,6 +74,7 @@ func HandleLambdaEvent() error {
 			)
 		}
 	}
+	fmt.Printf("Object filtering took %d ms\n", time.Now().Sub(t2).Milliseconds())
 
 	// Sort the list on license plate
 	sort.Slice(vector, func(i, j int) bool {

@@ -28,9 +28,11 @@ setuptools.setup(
     packages=setuptools.find_packages(where="lambda_language_performance_test"),
 
     install_requires=[
-        f'aws-cdk.core=={CDK_VERSION}',
-        f'aws_cdk.aws_lambda=={CDK_VERSION}',
         'python-dotenv==0.10.3',
+        f'aws_cdk.aws_lambda=={CDK_VERSION}',
+        f'aws_cdk.aws_stepfunctions_tasks=={CDK_VERSION}',
+        f'aws_cdk.aws_stepfunctions=={CDK_VERSION}',
+        f'aws-cdk.core=={CDK_VERSION}',
     ],
 
     python_requires=">=3.6",

@@ -4,13 +4,15 @@ import os
 import time
 
 def lambda_handler(_event, _context):
-    start_time = time.time()
+    t1 = time.time()
 
     # Load the file from JSON into memory
     file_name = os.environ.get('TEST_DATA_FILE')
     with open(f'/opt/{file_name}', 'r') as file_handle:
         test_data = json.load(file_handle)
+    print(f'JSON parsing took {int((time.time() - t1) * 1000)} ms')
 
+    t2 = time.time()
     filtered_list = []
     # For every item, check its license plate. If it has an 'A' in the first
     # section and a 0 in the second section, add it to the list. For example
@@ -26,6 +28,7 @@ def lambda_handler(_event, _context):
 
             # Add it to the results list
             filtered_list.append(obj)
+    print(f'Object filtering took {int((time.time() - t2) * 1000)} ms')
 
     # Sort the list on license plate
     sorted_list = sorted(filtered_list, key=lambda k: k['license_plate'])
@@ -34,7 +37,7 @@ def lambda_handler(_event, _context):
     # Calculate the hash of that JSON string
     result_hash = hashlib.sha256(sorted_list_json.encode()).hexdigest().upper()
 
-    duration = int((time.time() - start_time) * 1000)
+    duration = int((time.time() - t1) * 1000)
     print(
         f'Filtered {len(sorted_list)} from {len(test_data)} source items. '
         f'Result hash: {result_hash}. Duration: {duration} ms.'

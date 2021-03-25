@@ -51,15 +51,17 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 
 fn my_handler(_: CustomEvent, _: lambda::Context) -> Result<(), HandlerError> {
-    let start = Instant::now();
-
+    let t1 = Instant::now();
+    
     // Load the file from JSON into memory
     let file_name = env::var("TEST_DATA_FILE").unwrap();
     let data = fs::read_to_string(
         format!("/opt/{}", file_name)
     ).expect("Unable to read file");
     let map: HashMap<String, Vehicle> = serde_json::from_str(&data).unwrap();
-
+    println!("JSON parsing took {:?} ms", t1.elapsed().as_millis());
+    
+    let t2 = Instant::now();
     let mut vec = Vec::<VehicleWithHash>::new();
     // For every item, check its license plate. If it has an 'A' in the first
     // section and a 0 in the second section, add it to the list. For example
@@ -82,7 +84,8 @@ fn my_handler(_: CustomEvent, _: lambda::Context) -> Result<(), HandlerError> {
             );
         }
     }
-    
+    println!("Object filtering took {:?} ms", t2.elapsed().as_millis());
+
     // Sort the list on license plate
     vec.sort_by_key(|k| k.license_plate.clone());
 
@@ -94,7 +97,7 @@ fn my_handler(_: CustomEvent, _: lambda::Context) -> Result<(), HandlerError> {
     hasher.update(json_out);
     let result_hash = format!("{:X}", hasher.finalize());
 
-    let duration = start.elapsed().as_millis();
+    let duration = t1.elapsed().as_millis();
     println!(
         "Filtered {} from {} source items. Result hash: {}. Duration: {:?} ms.", 
         vec.len(), map.keys().len(), result_hash, duration
