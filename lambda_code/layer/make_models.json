@@ -1,0 +1,1558 @@
+[
+    {
+        "make": "ASTON MARTIN",
+        "model": "DB9 COUPE"
+    },
+    {
+        "make": "ASTON MARTIN",
+        "model": "DB9 COUPE MANUAL"
+    },
+    {
+        "make": "ASTON MARTIN",
+        "model": "DB9 VOLANTE"
+    },
+    {
+        "make": "ASTON MARTIN",
+        "model": "V12 VANQUISH S"
+    },
+    {
+        "make": "ASTON MARTIN",
+        "model": "V8 VANTAGEAUDI"
+    },
+    {
+        "make": "AUDI",
+        "model": "A3"
+    },
+    {
+        "make": "AUDI",
+        "model": "A4"
+    },
+    {
+        "make": "AUDI",
+        "model": "A4 AVANT QUATTRO"
+    },
+    {
+        "make": "AUDI",
+        "model": "A4 CABRIOLET"
+    },
+    {
+        "make": "AUDI",
+        "model": "A4 CABRIOLET QUATTRO"
+    },
+    {
+        "make": "AUDI",
+        "model": "A4 QUATTRO"
+    },
+    {
+        "make": "AUDI",
+        "model": "A6"
+    },
+    {
+        "make": "AUDI",
+        "model": "A6 AVANT QUATTRO"
+    },
+    {
+        "make": "AUDI",
+        "model": "A6 QUATTRO"
+    },
+    {
+        "make": "AUDI",
+        "model": "A8 L"
+    },
+    {
+        "make": "AUDI",
+        "model": "GTI"
+    },
+    {
+        "make": "AUDI",
+        "model": "PASSAT"
+    },
+    {
+        "make": "AUDI",
+        "model": "S4"
+    },
+    {
+        "make": "AUDI",
+        "model": "S4 AVANT"
+    },
+    {
+        "make": "AUDI",
+        "model": "S4 CABRIOLET"
+    },
+    {
+        "make": "AUDI",
+        "model": "TT COUPE"
+    },
+    {
+        "make": "AUDI",
+        "model": "TT ROADSTER"
+    },
+    {
+        "make": "BENTLEY MOTORS LTD.",
+        "model": "BENTLEY ARNAGE"
+    },
+    {
+        "make": "BENTLEY MOTORS LTD.",
+        "model": "CONTINENTAL FLYING SPUR"
+    },
+    {
+        "make": "BENTLEY MOTORS LTD.",
+        "model": "CONTINENTAL GT"
+    },
+    {
+        "make": "BMW",
+        "model": "325CI CONVERTIBLE"
+    },
+    {
+        "make": "BMW",
+        "model": "325I"
+    },
+    {
+        "make": "BMW",
+        "model": "325XI"
+    },
+    {
+        "make": "BMW",
+        "model": "325XI SPORT WAGON"
+    },
+    {
+        "make": "BMW",
+        "model": "330CI CONVERTIBLE"
+    },
+    {
+        "make": "BMW",
+        "model": "330I"
+    },
+    {
+        "make": "BMW",
+        "model": "330XI"
+    },
+    {
+        "make": "BMW",
+        "model": "525I"
+    },
+    {
+        "make": "BMW",
+        "model": "525XI"
+    },
+    {
+        "make": "BMW",
+        "model": "530I"
+    },
+    {
+        "make": "BMW",
+        "model": "530XI"
+    },
+    {
+        "make": "BMW",
+        "model": "530XI SPORT WAGON"
+    },
+    {
+        "make": "BMW",
+        "model": "550I"
+    },
+    {
+        "make": "BMW",
+        "model": "650CI"
+    },
+    {
+        "make": "BMW",
+        "model": "650CI CONVERTIBLE"
+    },
+    {
+        "make": "BMW",
+        "model": "750LI"
+    },
+    {
+        "make": "BMW",
+        "model": "760LI"
+    },
+    {
+        "make": "BMW",
+        "model": "M3"
+    },
+    {
+        "make": "BMW",
+        "model": "M3 CONVERTIBLE"
+    },
+    {
+        "make": "BMW",
+        "model": "M5"
+    },
+    {
+        "make": "BMW",
+        "model": "M6"
+    },
+    {
+        "make": "BMW",
+        "model": "MINI COOPER"
+    },
+    {
+        "make": "BMW",
+        "model": "MINI COOPER CONVERTIBLE"
+    },
+    {
+        "make": "BMW",
+        "model": "MINI COOPER S"
+    },
+    {
+        "make": "BMW",
+        "model": "MINI COOPER S CONVERTIBLE"
+    },
+    {
+        "make": "BMW",
+        "model": "X3"
+    },
+    {
+        "make": "BMW",
+        "model": "X5"
+    },
+    {
+        "make": "BMW",
+        "model": "X5 4.8IS"
+    },
+    {
+        "make": "BMW",
+        "model": "Z4 3.0 SI COUPE"
+    },
+    {
+        "make": "BMW",
+        "model": "Z4 3.0I"
+    },
+    {
+        "make": "BMW",
+        "model": "Z4 3.0SI"
+    },
+    {
+        "make": "BMW",
+        "model": "Z4 M ROADSTER"
+    },
+    {
+        "make": "BUGATTI AUTOMOBILES S.A.S.",
+        "model": "VEYRON"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "CARAVAN 2WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "CHARGER"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "COMMANDER 4WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "CROSSFIRE ROADSTER"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "DAKOTA PICKUP 2WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "DAKOTA PICKUP 4WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "DURANGO 2WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "DURANGO 4WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "GRAND CHEROKEE 2WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "GRAND CHEROKEE 4WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "LIBERTY/CHEROKEE 2WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "LIBERTY/CHEROKEE 4WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "PACIFICA 2WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "PACIFICA AWD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "PT CRUISER"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "RAM 1500 PICKUP 2WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "RAM 1500 PICKUP 4WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "SEBRING 4-DR"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "STRATUS 4-DR"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "TOWN & COUNTRY 2WD"
+    },
+    {
+        "make": "DAIMLERCHRYSLER",
+        "model": "VIPER CONVERTIBLE"
+    },
+    {
+        "make": "FERRARI",
+        "model": "FERRARI F141FORD"
+    },
+    {
+        "make": "FORD",
+        "model": "B4000 4WD"
+    },
+    {
+        "make": "FORD",
+        "model": "CROWN VICTORIA POLICE"
+    },
+    {
+        "make": "FORD",
+        "model": "E150 CLUB WAGON"
+    },
+    {
+        "make": "FORD",
+        "model": "E150 ECONOLINE 2WD"
+    },
+    {
+        "make": "FORD",
+        "model": "ESCAPE 4WD"
+    },
+    {
+        "make": "FORD",
+        "model": "ESCAPE FWD"
+    },
+    {
+        "make": "FORD",
+        "model": "ESCAPE HYBRID 4WD"
+    },
+    {
+        "make": "FORD",
+        "model": "ESCAPE HYBRID FWD"
+    },
+    {
+        "make": "FORD",
+        "model": "EXPEDITION 2WD"
+    },
+    {
+        "make": "FORD",
+        "model": "EXPLORER 2WD"
+    },
+    {
+        "make": "FORD",
+        "model": "EXPLORER 4WD"
+    },
+    {
+        "make": "FORD",
+        "model": "F150 FFV  2WD"
+    },
+    {
+        "make": "FORD",
+        "model": "F150 FFV  4WD"
+    },
+    {
+        "make": "FORD",
+        "model": "F150 PICKUP 2WD"
+    },
+    {
+        "make": "FORD",
+        "model": "F150 PICKUP 4WD"
+    },
+    {
+        "make": "FORD",
+        "model": "FIVE HUNDRED AWD"
+    },
+    {
+        "make": "FORD",
+        "model": "FIVE HUNDRED FWD"
+    },
+    {
+        "make": "FORD",
+        "model": "FOCUS  FWD"
+    },
+    {
+        "make": "FORD",
+        "model": "FOCUS STATION WAG"
+    },
+    {
+        "make": "FORD",
+        "model": "FREESTAR WAGON FWD"
+    },
+    {
+        "make": "FORD",
+        "model": "FREESTYLE AWD"
+    },
+    {
+        "make": "FORD",
+        "model": "FREESTYLE FWD"
+    },
+    {
+        "make": "FORD",
+        "model": "GRAND MARQUIS"
+    },
+    {
+        "make": "FORD",
+        "model": "GT        2WD"
+    },
+    {
+        "make": "FORD",
+        "model": "LS"
+    },
+    {
+        "make": "FORD",
+        "model": "MARK LT"
+    },
+    {
+        "make": "FORD",
+        "model": "MILAN"
+    },
+    {
+        "make": "FORD",
+        "model": "MONTEREY WAGON FWD"
+    },
+    {
+        "make": "FORD",
+        "model": "MOUNTAINEER 4WD"
+    },
+    {
+        "make": "FORD",
+        "model": "MUSTANG"
+    },
+    {
+        "make": "FORD",
+        "model": "NAVIGATOR 2WD"
+    },
+    {
+        "make": "FORD",
+        "model": "RANGER PICKUP 2WD"
+    },
+    {
+        "make": "FORD",
+        "model": "RANGER PICKUP 4WD"
+    },
+    {
+        "make": "FORD",
+        "model": "TAURUS"
+    },
+    {
+        "make": "FORD",
+        "model": "TAURUS ETHANOL FFV"
+    },
+    {
+        "make": "FORD",
+        "model": "THUNDERBIRD"
+    },
+    {
+        "make": "FORD",
+        "model": "TOWN CAR"
+    },
+    {
+        "make": "FUJI HEAVY IND",
+        "model": "FORESTER AWD"
+    },
+    {
+        "make": "FUJI HEAVY IND",
+        "model": "IMPREZA AWD"
+    },
+    {
+        "make": "FUJI HEAVY IND",
+        "model": "IMPREZA WGN/OUTBACK SPT AWD"
+    },
+    {
+        "make": "FUJI HEAVY IND",
+        "model": "LEGACY AWD"
+    },
+    {
+        "make": "FUJI HEAVY IND",
+        "model": "LEGACY WAGON AWD"
+    },
+    {
+        "make": "FUJI HEAVY IND",
+        "model": "OUTBACK AWD"
+    },
+    {
+        "make": "GM",
+        "model": "9-5 SEDAN"
+    },
+    {
+        "make": "GM",
+        "model": "C15 SILVERADO HYBRID 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "C1500 SILVERADO 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "C1500 SUBURBAN 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "C1500 TAHOE 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "C1500 YUKON 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "COBALT"
+    },
+    {
+        "make": "GM",
+        "model": "COLORADO 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "COLORADO 4WD"
+    },
+    {
+        "make": "GM",
+        "model": "COLORADO CAB CHASSIS INC 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "COLORADO CREW CAB 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "COLORADO CREW CAB 4WD"
+    },
+    {
+        "make": "GM",
+        "model": "CORVETTE"
+    },
+    {
+        "make": "GM",
+        "model": "CTS"
+    },
+    {
+        "make": "GM",
+        "model": "DTS"
+    },
+    {
+        "make": "GM",
+        "model": "ENVOY 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "ENVOY XL 4WD"
+    },
+    {
+        "make": "GM",
+        "model": "EQUINOX AWD"
+    },
+    {
+        "make": "GM",
+        "model": "EQUINOX FWD"
+    },
+    {
+        "make": "GM",
+        "model": "ESCALADE 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "ESCALADE ESV AWD"
+    },
+    {
+        "make": "GM",
+        "model": "G15/25CHEV VAN 2WD CONV"
+    },
+    {
+        "make": "GM",
+        "model": "G1500/2500 CHEVY EXPRESS 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "G1500/2500 CHEVY VAN 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "G6"
+    },
+    {
+        "make": "GM",
+        "model": "G6 GT/GTP CONVERTIBLE"
+    },
+    {
+        "make": "GM",
+        "model": "GRAND PRIX"
+    },
+    {
+        "make": "GM",
+        "model": "GTO"
+    },
+    {
+        "make": "GM",
+        "model": "H3 4WD"
+    },
+    {
+        "make": "GM",
+        "model": "HHR FWD"
+    },
+    {
+        "make": "GM",
+        "model": "I-280 2WD EXT CAB"
+    },
+    {
+        "make": "GM",
+        "model": "IMPALA"
+    },
+    {
+        "make": "GM",
+        "model": "K15 SILVERADO HYBRID 4WD"
+    },
+    {
+        "make": "GM",
+        "model": "K1500 AVALANCHE 4WD"
+    },
+    {
+        "make": "GM",
+        "model": "K1500 SILVERADO 4WD"
+    },
+    {
+        "make": "GM",
+        "model": "K1500 TAHOE 4WD"
+    },
+    {
+        "make": "GM",
+        "model": "LACROSSE/ALLURE"
+    },
+    {
+        "make": "GM",
+        "model": "LIMOUSINE"
+    },
+    {
+        "make": "GM",
+        "model": "MALIBU"
+    },
+    {
+        "make": "GM",
+        "model": "MONTANA SV6 AWD"
+    },
+    {
+        "make": "GM",
+        "model": "MONTE CARLO"
+    },
+    {
+        "make": "GM",
+        "model": "RENDEZVOUS AWD"
+    },
+    {
+        "make": "GM",
+        "model": "RENDEZVOUS FWD"
+    },
+    {
+        "make": "GM",
+        "model": "SOLSTICE"
+    },
+    {
+        "make": "GM",
+        "model": "SRX 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "SRX AWD"
+    },
+    {
+        "make": "GM",
+        "model": "SSR PICKUP 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "STS"
+    },
+    {
+        "make": "GM",
+        "model": "STS AWD"
+    },
+    {
+        "make": "GM",
+        "model": "TERRAZA FWD"
+    },
+    {
+        "make": "GM",
+        "model": "TRAILBLAZER 2WD"
+    },
+    {
+        "make": "GM",
+        "model": "TRAILBLAZER 4WD"
+    },
+    {
+        "make": "GM",
+        "model": "TRAILBLAZER AWD"
+    },
+    {
+        "make": "GM",
+        "model": "TRAILBLAZER EXT 4WD"
+    },
+    {
+        "make": "GM",
+        "model": "UPLANDER FWD"
+    },
+    {
+        "make": "GM",
+        "model": "VUE AWD"
+    },
+    {
+        "make": "GM",
+        "model": "VUE FWD"
+    },
+    {
+        "make": "GM",
+        "model": "XLR"
+    },
+    {
+        "make": "GM DAEWOO",
+        "model": "AVEO"
+    },
+    {
+        "make": "GM DAEWOO",
+        "model": "FORENZA"
+    },
+    {
+        "make": "GM DAEWOO",
+        "model": "FORENZA WAGON"
+    },
+    {
+        "make": "GM DAEWOO",
+        "model": "VERONA"
+    },
+    {
+        "make": "HONDA",
+        "model": "ACCORD"
+    },
+    {
+        "make": "HONDA",
+        "model": "ACCORD HYBRID"
+    },
+    {
+        "make": "HONDA",
+        "model": "CIVIC"
+    },
+    {
+        "make": "HONDA",
+        "model": "CIVIC HYBRID"
+    },
+    {
+        "make": "HONDA",
+        "model": "CR-V 2WD"
+    },
+    {
+        "make": "HONDA",
+        "model": "CR-V 4WD"
+    },
+    {
+        "make": "HONDA",
+        "model": "ELEMENT 2WD"
+    },
+    {
+        "make": "HONDA",
+        "model": "ELEMENT 4WD"
+    },
+    {
+        "make": "HONDA",
+        "model": "INSIGHT"
+    },
+    {
+        "make": "HONDA",
+        "model": "MDX 4WD"
+    },
+    {
+        "make": "HONDA",
+        "model": "ODYSSEY 2WD"
+    },
+    {
+        "make": "HONDA",
+        "model": "PILOT 2WD"
+    },
+    {
+        "make": "HONDA",
+        "model": "PILOT 4WD"
+    },
+    {
+        "make": "HONDA",
+        "model": "RIDGELINE 4WD"
+    },
+    {
+        "make": "HONDA",
+        "model": "RL"
+    },
+    {
+        "make": "HONDA",
+        "model": "RSX"
+    },
+    {
+        "make": "HONDA",
+        "model": "S2000"
+    },
+    {
+        "make": "HONDA",
+        "model": "TL"
+    },
+    {
+        "make": "HONDA",
+        "model": "TSXHYUNDAI"
+    },
+    {
+        "make": "HYUNDAI",
+        "model": "ACCENT"
+    },
+    {
+        "make": "HYUNDAI",
+        "model": "AZERA"
+    },
+    {
+        "make": "HYUNDAI",
+        "model": "ELANTRA"
+    },
+    {
+        "make": "HYUNDAI",
+        "model": "SANTAFE 2WD"
+    },
+    {
+        "make": "HYUNDAI",
+        "model": "SANTAFE 4WD"
+    },
+    {
+        "make": "HYUNDAI",
+        "model": "SONATA"
+    },
+    {
+        "make": "HYUNDAI",
+        "model": "TIBURON"
+    },
+    {
+        "make": "HYUNDAI",
+        "model": "TUCSON 2WD"
+    },
+    {
+        "make": "HYUNDAI",
+        "model": "TUCSON 4WDJAGUAR"
+    },
+    {
+        "make": "JAGUAR CARS INC",
+        "model": "JAGUAR S-TYPE 3.0 LITRE"
+    },
+    {
+        "make": "JAGUAR CARS INC",
+        "model": "JAGUAR S-TYPE 4.2 LITRE"
+    },
+    {
+        "make": "JAGUAR CARS INC",
+        "model": "JAGUAR S-TYPE R"
+    },
+    {
+        "make": "JAGUAR CARS INC",
+        "model": "JAGUAR VDP LWB"
+    },
+    {
+        "make": "JAGUAR CARS INC",
+        "model": "JAGUAR XJ8"
+    },
+    {
+        "make": "JAGUAR CARS INC",
+        "model": "JAGUAR XK8 CONVERTIBLE"
+    },
+    {
+        "make": "JAGUAR CARS INC",
+        "model": "JAGUAR XKR CONVERTIBLE"
+    },
+    {
+        "make": "JAGUAR CARS INC",
+        "model": "JAGUAR X-TYPE"
+    },
+    {
+        "make": "JAGUAR CARS INC",
+        "model": "JAGUAR X-TYPE SPORT BRAKEKIA"
+    },
+    {
+        "make": "KIA MOTORS CORPORATION",
+        "model": "KIA AMANTI"
+    },
+    {
+        "make": "KIA MOTORS CORPORATION",
+        "model": "KIA OPTIMA"
+    },
+    {
+        "make": "KIA MOTORS CORPORATION",
+        "model": "KIA OPTIMA(MS)"
+    },
+    {
+        "make": "KIA MOTORS CORPORATION",
+        "model": "KIA RIO"
+    },
+    {
+        "make": "KIA MOTORS CORPORATION",
+        "model": "KIA SEDONA"
+    },
+    {
+        "make": "KIA MOTORS CORPORATION",
+        "model": "KIA SORENTO 2WD"
+    },
+    {
+        "make": "KIA MOTORS CORPORATION",
+        "model": "KIA SORENTO 4WD"
+    },
+    {
+        "make": "KIA MOTORS CORPORATION",
+        "model": "KIA SPECTRA(LD)"
+    },
+    {
+        "make": "KIA MOTORS CORPORATION",
+        "model": "KIA SPORTAGE 2WD"
+    },
+    {
+        "make": "KIA MOTORS CORPORATION",
+        "model": "KIA SPORTAGE 4WDLAMBORGHINI"
+    },
+    {
+        "make": "LAMBORGHINI",
+        "model": "L-140/715 GALLARDO"
+    },
+    {
+        "make": "LAMBORGHINI",
+        "model": "L-147/148 MURCIELAGOLAND ROVER"
+    },
+    {
+        "make": "LAND ROVER",
+        "model": "LR3"
+    },
+    {
+        "make": "LAND ROVER",
+        "model": "RANGE ROVER"
+    },
+    {
+        "make": "MASERATI",
+        "model": "MASERATI QUATTROPORTEMAZDZ"
+    },
+    {
+        "make": "MAZDA MOTOR CORP.",
+        "model": "MAZDA 3"
+    },
+    {
+        "make": "MAZDA MOTOR CORP.",
+        "model": "MAZDA 5"
+    },
+    {
+        "make": "MAZDA MOTOR CORP.",
+        "model": "MAZDA 6"
+    },
+    {
+        "make": "MAZDA MOTOR CORP.",
+        "model": "MAZDA 6 SPORT WAGON"
+    },
+    {
+        "make": "MAZDA MOTOR CORP.",
+        "model": "MAZDA RX-8"
+    },
+    {
+        "make": "MAZDA MOTOR CORP.",
+        "model": "MPV"
+    },
+    {
+        "make": "MAZDA MOTOR CORP.",
+        "model": "MX-5MERCEDES BENZ"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "C230"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "C280"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "C280 4MATIC"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "C350"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "C350 4MATIC"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "C55 AMG"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "CL65 AMG"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "CLK350"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "CLK350 (CABRIOLET)"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "CLK55 AMG (CABRIOLET)"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "CLS500"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "CLS55 AMG"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "E320 CDI"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "E350"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "E350 (WAGON)"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "E350 4MATIC"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "E350 4MATIC (WAGON)"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "E500"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "E55 AMG"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "E55 AMG (WAGON)"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "MAYBACH 57S"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "MAYBACH 62"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "ML350"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "ML500"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "R350"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "R500"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "S350"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "S430"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "SL500"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "SL600"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "SL65 AMG"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "SLK280"
+    },
+    {
+        "make": "MERCEDES BENZ",
+        "model": "SLK350"
+    },
+    {
+        "make": "MITSUBISHI",
+        "model": "ENDEAVOR 4WD"
+    },
+    {
+        "make": "MITSUBISHI",
+        "model": "GALANT"
+    },
+    {
+        "make": "MITSUBISHI",
+        "model": "LANCER"
+    },
+    {
+        "make": "MITSUBISHI",
+        "model": "LANCER EVOLUTION"
+    },
+    {
+        "make": "MITSUBISHI",
+        "model": "LANCER SPORTBACK"
+    },
+    {
+        "make": "MITSUBISHI",
+        "model": "MONTERO"
+    },
+    {
+        "make": "MITSUBISHI",
+        "model": "OUTLANDER 2WD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "350Z ROADSTER"
+    },
+    {
+        "make": "NISSAN",
+        "model": "ALTIMA"
+    },
+    {
+        "make": "NISSAN",
+        "model": "ARMADA 2WD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "ARMADA 4WD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "FRONTIER 2WD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "FRONTIER V6-2WD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "FRONTIER V6-4WD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "FX35 AWD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "FX35 RWD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "FX45 AWD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "G35"
+    },
+    {
+        "make": "NISSAN",
+        "model": "M35"
+    },
+    {
+        "make": "NISSAN",
+        "model": "M35X"
+    },
+    {
+        "make": "NISSAN",
+        "model": "M45"
+    },
+    {
+        "make": "NISSAN",
+        "model": "MAXIMA"
+    },
+    {
+        "make": "NISSAN",
+        "model": "MURANO AWD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "MURANO FWD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "PATHFINDER 2WD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "PATHFINDER 4WD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "Q45"
+    },
+    {
+        "make": "NISSAN",
+        "model": "Q45 SPORT"
+    },
+    {
+        "make": "NISSAN",
+        "model": "QUEST"
+    },
+    {
+        "make": "NISSAN",
+        "model": "QX56 4WD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "SENTRA"
+    },
+    {
+        "make": "NISSAN",
+        "model": "TITAN 2WD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "TITAN 4WD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "XTERRA 2WD"
+    },
+    {
+        "make": "NISSAN",
+        "model": "XTERRA 4WDPORSCHE"
+    },
+    {
+        "make": "PORSCHE",
+        "model": "BOXSTER"
+    },
+    {
+        "make": "PORSCHE",
+        "model": "BOXSTER S"
+    },
+    {
+        "make": "PORSCHE",
+        "model": "CARRERA 2 COUPE"
+    },
+    {
+        "make": "PORSCHE",
+        "model": "CAYENNE"
+    },
+    {
+        "make": "PORSCHE",
+        "model": "CAYENNE S"
+    },
+    {
+        "make": "PORSCHE",
+        "model": "CAYENNE TURBO"
+    },
+    {
+        "make": "PORSCHE",
+        "model": "CAYMAN S"
+    },
+    {
+        "make": "ROUSH INDUSTRIES, INC.",
+        "model": "STAGE3 F150 SUPERCREW 4WDSPYKER"
+    },
+    {
+        "make": "SPYKER AUTOMOBIELEN BV",
+        "model": "C8 SPYDERSUZUKI"
+    },
+    {
+        "make": "SUZUKI",
+        "model": "AERIO"
+    },
+    {
+        "make": "SUZUKI",
+        "model": "AERIO SX"
+    },
+    {
+        "make": "SUZUKI",
+        "model": "AERIO SX AWD"
+    },
+    {
+        "make": "SUZUKI",
+        "model": "GRAND VITARA XL-7"
+    },
+    {
+        "make": "SUZUKI",
+        "model": "GRAND VITARA XL-7 4WD"
+    },
+    {
+        "make": "SUZUKI",
+        "model": "GRAND VITARA XV6"
+    },
+    {
+        "make": "SUZUKI",
+        "model": "GRAND VITARA XV6 AWDTOYOTA"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "4RUNNER 2WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "4RUNNER 4WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "AVALON"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "CAMRY"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "CAMRY SOLARA"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "CAMRY SOLARA CONVERTIBLE"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "COROLLA"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "COROLLA MATRIX"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "ES 330"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "GS 300 4WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "GS 300/GS 430"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "GX 470"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "HIGHLANDER 2WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "HIGHLANDER 4WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "HIGHLANDER HYBRID 2WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "HIGHLANDER HYBRID 4WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "IS 250"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "IS 250 AWD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "IS 350"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "LS 430"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "LX 470"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "PRIUS"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "RAV4 2WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "RAV4 4WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "RX 330 2WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "RX 330 4WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "RX 400H 4WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "SC 430"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "SCION TC"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "SCION XA"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "SCION XB"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "SEQUOIA 2WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "SEQUOIA 4WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "SIENNA 2WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "SIENNA 4WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "TOYOTA TACOMA 2WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "TOYOTA TACOMA 4WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "TOYOTA TUNDRA 2WD"
+    },
+    {
+        "make": "TOYOTA",
+        "model": "TOYOTA TUNDRA 4WD"
+    },
+    {
+        "make": "VOLKSWAGEN",
+        "model": "JETTA"
+    },
+    {
+        "make": "VOLKSWAGEN",
+        "model": "NEW BEETLE"
+    },
+    {
+        "make": "VOLKSWAGEN",
+        "model": "NEW BEETLE CONVERTIBLE"
+    },
+    {
+        "make": "VOLKSWAGEN",
+        "model": "PASSAT WAGON 4MOTION"
+    },
+    {
+        "make": "VOLKSWAGEN",
+        "model": "PHAETON"
+    },
+    {
+        "make": "VOLKSWAGEN",
+        "model": "RABBIT"
+    },
+    {
+        "make": "VOLKSWAGEN",
+        "model": "TOUAREG"
+    },
+    {
+        "make": "VOLKSWAGEN",
+        "model": "TT COUPE QUATTRO"
+    },
+    {
+        "make": "VOLKSWAGEN",
+        "model": "TT ROADSTER QUATTROVOLVO"
+    },
+    {
+        "make": "VOLVO",
+        "model": "NEW C70 CONVERTIBLE"
+    },
+    {
+        "make": "VOLVO",
+        "model": "S40 AWD"
+    },
+    {
+        "make": "VOLVO",
+        "model": "S40 FWD"
+    },
+    {
+        "make": "VOLVO",
+        "model": "S60 AWD"
+    },
+    {
+        "make": "VOLVO",
+        "model": "S60 FWD"
+    },
+    {
+        "make": "VOLVO",
+        "model": "S60 R AWD"
+    },
+    {
+        "make": "VOLVO",
+        "model": "S80 FWD"
+    },
+    {
+        "make": "VOLVO",
+        "model": "V50 AWD"
+    },
+    {
+        "make": "VOLVO",
+        "model": "V70 FWD"
+    },
+    {
+        "make": "VOLVO",
+        "model": "V70 R AWD"
+    },
+    {
+        "make": "VOLVO",
+        "model": "XC 70 AWD"
+    },
+    {
+        "make": "VOLVO",
+        "model": "XC 90 AWD"
+    },
+    {
+        "make": "VOLVO",
+        "model": "XC 90 FWD"
+    }
+]

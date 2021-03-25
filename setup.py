@@ -4,6 +4,15 @@ import setuptools
 with open("README.md") as fp:
     long_description = fp.read()
 
+CDK_VERSION = None
+with open('.env.aws', 'r') as env_file:
+    env_vars = env_file.read().split('\n')
+    for env_var in env_vars:
+        if env_var.startswith('CDK_VERSION'):
+            CDK_VERSION = env_var.split('=')[1].replace('"', '')
+
+if not CDK_VERSION:
+    raise ValueError('The ENV VAR CDK_VERSION is required.')
 
 setuptools.setup(
     name="lambda_language_performance_test",
@@ -19,7 +28,11 @@ setuptools.setup(
     packages=setuptools.find_packages(where="lambda_language_performance_test"),
 
     install_requires=[
-        "aws-cdk.core==1.88.0",
+        'python-dotenv==0.10.3',
+        f'aws_cdk.aws_lambda=={CDK_VERSION}',
+        f'aws_cdk.aws_stepfunctions_tasks=={CDK_VERSION}',
+        f'aws_cdk.aws_stepfunctions=={CDK_VERSION}',
+        f'aws-cdk.core=={CDK_VERSION}',
     ],
 
     python_requires=">=3.6",
